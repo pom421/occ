@@ -6,7 +6,7 @@ $classe[$page]='class="active"';
 <!DOCTYPE html>
 <html>
 <head>
-<title>Opéra Côté Choeur XXXX <?php print "- ".$title; ?></title>
+<title>Opéra Côté Choeur <?php print "- ".$title; ?></title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="description" content="<?php print $description; ?>" />
@@ -22,7 +22,7 @@ $classe[$page]='class="active"';
     <header id="header" class="hoc clear"> 
       <!-- ################################################################################################ -->
       <div id="logo" class="fl_left">
-        <h1><a href="index.php">Opéra Côté Choeur</a></h1>
+        <h1><a href="index.php">Opéra Côté Choeur YYYY</a></h1>
       </div>
       <nav id="mainav" class="fl_right">
         <ul class="clear">

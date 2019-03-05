@@ -181,7 +181,9 @@ le principe d’un concert mis en espace pour décortiquer la richesse du réper
 	<?php if ($captchkaok==false) {
 			echo "Vous êtes un robot";
 		} else if ($captchkaok==true) {
-			echo "Votre demande a été prise en compte"; ?>
+      echo "Votre demande a été prise en compte"; 
+    }
+  ?>
 	</p>
     <div class="one_half first" >
       <div class="inspace-30 row3">

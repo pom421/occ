@@ -1,0 +1,10 @@
+{
+    "name": "pierre-oliviermauguet/occ",
+    "authors": [
+        {
+            "name": "Po Mauguet",
+            "email": "mauguet.po@gmail.com"
+        }
+    ],
+    "require": {}
+}

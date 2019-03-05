@@ -4,7 +4,7 @@
     <!-- ################################################################################################ -->
     <div class="group">
       <div class="content">
-        <h6 class="heading font-x3" >Qui sommes-nous ? Oui, qui ??? </h6><br/>									
+        <h6 class="heading font-x3" >Qui sommes-nous ?</h6><br/>									
 					<p><cite>Opéra Côté Chœur</cite> produit et diffuse en Ile-de-France - et maintenant au-delà - des opéras à des prix raisonnables afin d’aller à la rencontre de publics nouveaux.<br />Elle propose des œuvres du <strong>répertoire</strong>, des œuvres tournées vers le <strong>jeune public</strong>, et envisage prochainement la <strong>création</strong> d’une œuvre contemporaine.</p>
 <p>Notre compagnie propose un vrai travail de mise en scène sur les œuvres qu’elle présente. Elle ambitionne une grande qualité non seulement musicale mais aussi esthétique.</p>
 <p>Notre compagnie s’est fixé comme objectif de rendre l’opéra accessible, voire familier aux enfants et de rompre avec l’image d’un art élitiste.</p>	
